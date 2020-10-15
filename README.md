@@ -25,3 +25,5 @@ Listed the stations and observation counts in descending order.
 Designed a query to retrieve the last 12 months of temperature observation data (TOBS).
 
 ![Tobs Image](Images/tobs.png)
+
+After the analysis, we developed an API to represent the findings using Flask and jsonifying the data
